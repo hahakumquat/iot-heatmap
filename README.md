@@ -1,0 +1,1 @@
+iot heatmap demo: node-sensortag test file called sensor.js, to be placed in node_modules
